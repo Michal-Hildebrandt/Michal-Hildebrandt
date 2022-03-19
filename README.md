@@ -13,9 +13,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 👀 I’m interested in .NET, web technology and opportunity to gain first commercial experience
+- 👀 I’m interested in .NET, web and desktop technology and opportunity to gain first commercial experience
 - 🔭 I’m currently working on finishing my console application and getting ideas for my first web application
-- 🌱 I’m currently learning ASP.NET Core MVC
+- 🌱 I’m currently learning WPF, MVVM, MsSql and Entity Framework. In the future I want to try ASP.NET Core MVC for sure !
 ### Technologies and tools 
 <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"/> <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg"/> <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"/>
 
