@@ -13,10 +13,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 😄 I'm getting my first commercial experience as .Net Intern
-- 👀 I’m interested in .NET, web and desktop technology and opportunity to cooperate in some bigger projects !
-- 🔭 I’m currently working on my first WPF application (custom music player)
-- 🌱 I’m currently learning ASP.NET Core, CQRS, Mediatr, WebApi and Blazor. 
+- 👀 I’m interested in .NET, web  technologies and also opportunity to cooperate in some bigger projects !
+- 🔭 I’m currently working on my first HTML/CSS
+- 🌱 I’m currently learning ASP.NET Core, CQRS, Mediatr, WebApi, Blazor. 
 ### Technologies and tools 
 <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"/> <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg"/> <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"/>
 
